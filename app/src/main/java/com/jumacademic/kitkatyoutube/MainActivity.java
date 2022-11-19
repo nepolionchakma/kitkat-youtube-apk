@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView txtView;
     WebView myWebView;
-    String myUrl = "https://www.youtube.com/results?search_query=live+tv+bd";
+    String myUrl = "https://www.youtube.com/";
     String setTxt = "No Internet !!"+ "\n"+"ইন্টারনেট নেই !!";
 
     @Override
